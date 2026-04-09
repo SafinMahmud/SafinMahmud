@@ -13,11 +13,12 @@ Currently targeting remote backend/full-stack roles
 • Open-source contributions across frontend and backend  
 
 ## 🧠 Open Source Contributions:
-• :contentReference[oaicite:0]{index=0}  
+
+• PostHog  
   - fix(cohorts): Wrap flat API criteria into nested group format (#51697 – merged)  
   https://github.com/PostHog/posthog/pull/51697  
 
-• :contentReference[oaicite:1]{index=1}  
+• Sentry  
   - fix(explore): add !has filter when drilling down (#110404 – approved)  
   https://github.com/getsentry/sentry/pull/110404  
   - fix(tagstore): Pass requested sort order to Snuba (#110985 – review pending)  
