@@ -1,7 +1,7 @@
 <h1>Hi 👋 I'm Safin Mahmud</h1>
 
 # 💫 About Me:
-Full-stack Software Engineer with 2+ years experience in Django & Vue.js  
+Full-stack Software Engineer specializing in Django & Vue.js  
 Built production web applications with REST APIs and performance optimizations  
 Contributed to large-scale open-source projects (Sentry, PostHog)  
 Currently targeting remote backend/full-stack roles  
