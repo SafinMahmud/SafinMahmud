@@ -23,9 +23,6 @@ Currently targeting remote backend/full-stack roles
   https://github.com/getsentry/sentry/pull/110404  
   - fix(tagstore): Pass requested sort order to Snuba (#110985 – review pending)  
 
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:safin5216@gmail.com)
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
