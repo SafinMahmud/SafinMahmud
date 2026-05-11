@@ -19,7 +19,7 @@ Currently targeting remote backend/full-stack roles
   https://github.com/PostHog/posthog/pull/51697  
 
 • Sentry  
-  - fix(explore): add !has filter when drilling down (#110404 – approved)  
+  - fix(explore): add !has filter when drilling down (#110404 – merged)  
   https://github.com/getsentry/sentry/pull/110404  
   - fix(tagstore): Pass requested sort order to Snuba (#110985 – review pending)  
 
