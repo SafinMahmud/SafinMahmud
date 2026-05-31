@@ -4,7 +4,7 @@
 Full-stack Software Engineer (React/TypeScript, Python/Django) based in Toronto, Canada  
 Focused on AI-assisted development, RAG systems, and open-source contribution  
 Contributed to large-scale open-source projects (Sentry, PostHog)  
-Currently targeting remote full-stack and AI engineering roles  
+Currently targeting full-stack and AI engineering roles  
 
 ## 🚀 Highlights:
 - Merged React/TypeScript and Python/Django fixes into Sentry, a production monitoring platform used by millions of developers  
